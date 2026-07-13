@@ -4,10 +4,10 @@
 
 ## What this project does
 
-HealthGuard Insurance currently prices plans using outdated actuarial tables, which underprices
+HealthGuard Insurance currently prices plans using outdated actuarial tables which underprices
 high-risk customers and overprices low-risk ones. This project uses the company's historical
-customer records to (1) explore what drives medical charges, (2) build and compare regression
-models that predict a customer's annual charges, and (3) classify customers as "expensive" or not
+customer records to explore what drives medical charges, build and compare regression
+models that predict a customer's annual charges, and classify customers as expensive or not
 relative to the median charge.
 
 ## Dataset
