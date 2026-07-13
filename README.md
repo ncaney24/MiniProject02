@@ -1,5 +1,6 @@
 # HealthGuard Insurance - Medical Charges Prediction
 # MiniProject02
+
 ## Noah Caney and Aakarsh Arora
 
 ## What this project does
