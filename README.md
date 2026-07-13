@@ -1,6 +1,5 @@
 # HealthGuard Insurance - Medical Charges Prediction
 # MiniProject02
-
 ## Noah Caney and Aakarsh Arora
 
 ## What this project does
@@ -31,7 +30,7 @@ path = kagglehub.dataset_download("mirichoi0218/insurance")
      This downloads a `kaggle.json` file containing your username and API key.
    - In Colab, upload `kaggle.json` when prompted, or set the environment variables
      `KAGGLE_USERNAME` and `KAGGLE_KEY` to the values from that file.
-3. Open `MiniProject_02_Insurance.ipynb` (Google Colab or Jupyter) and run all cells top to
+3. Open `MiniProject_02_Insurance.ipynb` and run all cells top to
    bottom. The first data cell uses `kagglehub` to download the `mirichoi0218/insurance`
    dataset automatically.
 
