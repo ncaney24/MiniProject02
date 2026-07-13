@@ -6,9 +6,9 @@
 
 HealthGuard Insurance prices its plans using outdated actuarial tables, which underprices high-risk
 customers (the company loses money on them) and overprices low-risk customers (who leave for cheaper
-competitors). The goal of this project is to use historical customer records to (a) understand what
-drives medical charges, (b) predict a customer's annual charges so premiums can be set fairly, and
-(c) flag whether a customer is likely to be "expensive."
+competitors). The goal of this project is to use historical customer records to understand what
+drives medical charges, predict a customer's annual charges so premiums can be set fairly, and flag 
+whether a customer is likely to be expensive.
 
 ## Data and cleaning decisions
 
